@@ -1,0 +1,9 @@
+.folder{
+    width: 400px;
+    background-color: beige;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+    border-radius: 5px;
+}
